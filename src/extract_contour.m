@@ -3,7 +3,7 @@
 % extracting the contours
 
 % Start and end dates
-date_start = date_num(2008,01,01);
+date_start = datenum(2008,01,01);
 date_end = datenum(2024,07,25);
 
 % Map mesh size and boundaries
